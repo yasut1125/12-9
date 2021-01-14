@@ -7,17 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BEC011C920D4A976008FC7F9 /* Turn1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC011C820D4A976008FC7F9 /* Turn1ViewController.swift */; };
+		BEC011CD20D4D241008FC7F9 /* Turn2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC011CC20D4D241008FC7F9 /* Turn2ViewController.swift */; };
+		BEC011CF20D4DC5B008FC7F9 /* countViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC011CE20D4DC5B008FC7F9 /* countViewController.swift */; };
+		BEC011D120DE01D0008FC7F9 /* newViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC011D020DE01D0008FC7F9 /* newViewController.swift */; };
+		BEC011D320DE0DB5008FC7F9 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC011D220DE0DB5008FC7F9 /* FirstViewController.swift */; };
+		BED5F2D92234092400073B89 /* d6.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2D82234092400073B89 /* d6.png */; };
+		BED5F2DF2234094700073B89 /* d5.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2DA2234094600073B89 /* d5.png */; };
+		BED5F2E02234094700073B89 /* d1.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2DB2234094700073B89 /* d1.png */; };
+		BED5F2E12234094700073B89 /* d4.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2DC2234094700073B89 /* d4.png */; };
+		BED5F2E22234094700073B89 /* d2.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2DD2234094700073B89 /* d2.png */; };
+		BED5F2E32234094700073B89 /* d3.png in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2DE2234094700073B89 /* d3.png */; };
+		BED5F2E522340A5500073B89 /* dice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BED5F2E422340A5500073B89 /* dice.jpg */; };
 		BEF5D6C020CBB05D006D7FB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5D6BF20CBB05D006D7FB8 /* AppDelegate.swift */; };
-		BEF5D6C220CBB05D006D7FB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5D6C120CBB05D006D7FB8 /* ViewController.swift */; };
 		BEF5D6C520CBB05D006D7FB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF5D6C320CBB05D006D7FB8 /* Main.storyboard */; };
 		BEF5D6C720CBB05E006D7FB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEF5D6C620CBB05E006D7FB8 /* Assets.xcassets */; };
 		BEF5D6CA20CBB05E006D7FB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF5D6C820CBB05E006D7FB8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BEF5D6BC20CBB05D006D7FB8 /* 12-9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "12-9.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEC011C820D4A976008FC7F9 /* Turn1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Turn1ViewController.swift; sourceTree = "<group>"; };
+		BEC011CC20D4D241008FC7F9 /* Turn2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Turn2ViewController.swift; sourceTree = "<group>"; };
+		BEC011CE20D4DC5B008FC7F9 /* countViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countViewController.swift; sourceTree = "<group>"; };
+		BEC011D020DE01D0008FC7F9 /* newViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newViewController.swift; sourceTree = "<group>"; };
+		BEC011D220DE0DB5008FC7F9 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		BED5F2D82234092400073B89 /* d6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = d6.png; path = ../../../d6.png; sourceTree = "<group>"; };
+		BED5F2DA2234094600073B89 /* d5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = d5.png; path = ../../../d5.png; sourceTree = "<group>"; };
+		BED5F2DB2234094700073B89 /* d1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = d1.png; path = ../../../d1.png; sourceTree = "<group>"; };
+		BED5F2DC2234094700073B89 /* d4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = d4.png; path = ../../../d4.png; sourceTree = "<group>"; };
+		BED5F2DD2234094700073B89 /* d2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = d2.png; path = ../../../d2.png; sourceTree = "<group>"; };
+		BED5F2DE2234094700073B89 /* d3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = d3.png; path = ../../../d3.png; sourceTree = "<group>"; };
+		BED5F2E422340A5500073B89 /* dice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dice.jpg; path = ../../dice/dice.jpg; sourceTree = "<group>"; };
+		BEF5D6BC20CBB05D006D7FB8 /* Dice Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dice Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEF5D6BF20CBB05D006D7FB8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BEF5D6C120CBB05D006D7FB8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BEF5D6C420CBB05D006D7FB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEF5D6C620CBB05E006D7FB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEF5D6C920CBB05E006D7FB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -46,7 +68,7 @@
 		BEF5D6BD20CBB05D006D7FB8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BEF5D6BC20CBB05D006D7FB8 /* 12-9.app */,
+				BEF5D6BC20CBB05D006D7FB8 /* Dice Game.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -55,8 +77,19 @@
 			isa = PBXGroup;
 			children = (
 				BEF5D6BF20CBB05D006D7FB8 /* AppDelegate.swift */,
-				BEF5D6C120CBB05D006D7FB8 /* ViewController.swift */,
 				BEF5D6C320CBB05D006D7FB8 /* Main.storyboard */,
+				BEC011D220DE0DB5008FC7F9 /* FirstViewController.swift */,
+				BEC011D020DE01D0008FC7F9 /* newViewController.swift */,
+				BEC011C820D4A976008FC7F9 /* Turn1ViewController.swift */,
+				BEC011CC20D4D241008FC7F9 /* Turn2ViewController.swift */,
+				BEC011CE20D4DC5B008FC7F9 /* countViewController.swift */,
+				BED5F2E422340A5500073B89 /* dice.jpg */,
+				BED5F2DB2234094700073B89 /* d1.png */,
+				BED5F2DD2234094700073B89 /* d2.png */,
+				BED5F2DE2234094700073B89 /* d3.png */,
+				BED5F2DC2234094700073B89 /* d4.png */,
+				BED5F2DA2234094600073B89 /* d5.png */,
+				BED5F2D82234092400073B89 /* d6.png */,
 				BEF5D6C620CBB05E006D7FB8 /* Assets.xcassets */,
 				BEF5D6C820CBB05E006D7FB8 /* LaunchScreen.storyboard */,
 				BEF5D6CB20CBB05E006D7FB8 /* Info.plist */,
@@ -67,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BEF5D6BB20CBB05D006D7FB8 /* 12-9 */ = {
+		BEF5D6BB20CBB05D006D7FB8 /* Dice Game */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BEF5D6CE20CBB05E006D7FB8 /* Build configuration list for PBXNativeTarget "12-9" */;
+			buildConfigurationList = BEF5D6CE20CBB05E006D7FB8 /* Build configuration list for PBXNativeTarget "Dice Game" */;
 			buildPhases = (
 				BEF5D6B820CBB05D006D7FB8 /* Sources */,
 				BEF5D6B920CBB05D006D7FB8 /* Frameworks */,
@@ -79,9 +112,9 @@
 			);
 			dependencies = (
 			);
-			name = "12-9";
+			name = "Dice Game";
 			productName = "12-9";
-			productReference = BEF5D6BC20CBB05D006D7FB8 /* 12-9.app */;
+			productReference = BEF5D6BC20CBB05D006D7FB8 /* Dice Game.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +132,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BEF5D6B720CBB05D006D7FB8 /* Build configuration list for PBXProject "12-9" */;
+			buildConfigurationList = BEF5D6B720CBB05D006D7FB8 /* Build configuration list for PBXProject "Dice Game" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +145,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BEF5D6BB20CBB05D006D7FB8 /* 12-9 */,
+				BEF5D6BB20CBB05D006D7FB8 /* Dice Game */,
 			);
 		};
 /* End PBXProject section */
@@ -122,7 +155,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BED5F2E32234094700073B89 /* d3.png in Resources */,
+				BED5F2E22234094700073B89 /* d2.png in Resources */,
+				BED5F2E02234094700073B89 /* d1.png in Resources */,
+				BED5F2E12234094700073B89 /* d4.png in Resources */,
+				BED5F2D92234092400073B89 /* d6.png in Resources */,
+				BED5F2DF2234094700073B89 /* d5.png in Resources */,
 				BEF5D6CA20CBB05E006D7FB8 /* LaunchScreen.storyboard in Resources */,
+				BED5F2E522340A5500073B89 /* dice.jpg in Resources */,
 				BEF5D6C720CBB05E006D7FB8 /* Assets.xcassets in Resources */,
 				BEF5D6C520CBB05D006D7FB8 /* Main.storyboard in Resources */,
 			);
@@ -135,7 +175,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEF5D6C220CBB05D006D7FB8 /* ViewController.swift in Sources */,
+				BEC011D120DE01D0008FC7F9 /* newViewController.swift in Sources */,
+				BEC011CF20D4DC5B008FC7F9 /* countViewController.swift in Sources */,
+				BEC011C920D4A976008FC7F9 /* Turn1ViewController.swift in Sources */,
+				BEC011D320DE0DB5008FC7F9 /* FirstViewController.swift in Sources */,
+				BEC011CD20D4D241008FC7F9 /* Turn2ViewController.swift in Sources */,
 				BEF5D6C020CBB05D006D7FB8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +327,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = M2GNRWS753;
 				INFOPLIST_FILE = "12-9/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,6 +346,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = M2GNRWS753;
 				INFOPLIST_FILE = "12-9/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -315,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BEF5D6B720CBB05D006D7FB8 /* Build configuration list for PBXProject "12-9" */ = {
+		BEF5D6B720CBB05D006D7FB8 /* Build configuration list for PBXProject "Dice Game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BEF5D6CC20CBB05E006D7FB8 /* Debug */,
@@ -324,7 +370,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BEF5D6CE20CBB05E006D7FB8 /* Build configuration list for PBXNativeTarget "12-9" */ = {
+		BEF5D6CE20CBB05E006D7FB8 /* Build configuration list for PBXNativeTarget "Dice Game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BEF5D6CF20CBB05E006D7FB8 /* Debug */,
